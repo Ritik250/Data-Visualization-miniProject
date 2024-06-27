@@ -21,7 +21,7 @@ if plot:
         #plot for india
         fig=px.scatter_mapbox(final_df,lat='Latitude',lon='Longitude',size=primary,
                               color=secondary,color_continuous_scale="Viridis",zoom=4, mapbox_style='carto-positron',
-                              height=700,width=700)
+                              height=700,width=700,hover_name='State')
         st.plotly_chart(fig,use_container_width=True)
     else:
         #plot for state
