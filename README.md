@@ -107,7 +107,7 @@ The dataset (`India.csv`) contains:
 
 ## Author
 
-- [Ritik Kumar]
+- Ritik Kumar
 
 ---
 
