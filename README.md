@@ -5,7 +5,7 @@ An interactive web application to **visualize India's census data** based on dif
 Built using **Streamlit** and **Plotly**, it provides dynamic scatter map visualizations with zoom and hover functionality.
 
 ---
-
+## Website : https://data-visualization-miniproject-achv964m72fswty4jc7uar.streamlit.app/
 ## 📷 Screenshot
 
 Here is the final visualisation created:
